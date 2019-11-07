@@ -1,0 +1,16 @@
+html{
+    background-color: rgb(231, 214, 218);
+}
+img{
+    width: 500px;
+}
+body{
+    color: rgb(243, 108, 108);
+}
+nav ul li a{
+    color: rgb(204, 103, 103);
+}
+nav ul li {
+    margin: 20px;
+    display: inline-block;
+}
